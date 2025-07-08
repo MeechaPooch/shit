@@ -1,0 +1,29 @@
+@font-face {
+  font-family: c059;
+  src: url(assets/c059.otf);
+}
+@font-face {
+  font-family: ptserif;
+  src: url(assets/ptserif.ttf);
+}
+
+.title{
+  position: relative;
+  left: 0;
+  right: 0;
+  margin: auto;
+ font-family: Times;
+ text-align: left;
+ font-size: 40px;
+ font-weight: bold;
+ 
+}
+.tab{
+     Padding-left:20px;
+}
+.contents {
+    font-family: 'Times New Roman', Times, serif;
+    /* line-height: 200%; */
+    width:800px;
+  font-size: 20px;
+}
